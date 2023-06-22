@@ -1,2 +1,0 @@
-# EncriptadorChallenge
-proyecto de encriptador
